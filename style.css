@@ -1,0 +1,11 @@
+
+body{font-family:Arial,sans-serif;margin:0;color:#333}
+.container{width:90%;max-width:1100px;margin:auto}
+header{background:#0f172a;color:white;text-align:center;padding:30px}
+.logo{max-height:120px}
+.hero{padding:60px 20px;background:#f3f4f6;text-align:center}
+.services{padding:50px 0}
+.cards{display:flex;gap:20px;flex-wrap:wrap}
+.card{flex:1;min-width:220px;padding:20px;border:1px solid #ddd;border-radius:10px}
+.about{padding:40px 0}
+footer{background:#0f172a;color:white;text-align:center;padding:20px}
